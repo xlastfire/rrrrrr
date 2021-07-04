@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
-            "description": "QR එක ස්කෑන් කල විට ලැබෙන් කේතය. Type here yours Session.",
+            "description": "QR කේතය.",
             "required": true
         },
         "LANGUAGE": {
